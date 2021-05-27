@@ -1,0 +1,456 @@
+<html>
+	<head />
+	<body>
+		<para id="1">
+			<se lang="ru">Под конец недели Киото встретил дождями основной туристический сезон любования осенними листьями, но несмотря на то, что все известные кленовые места поливает дождь, туристов меньше не стало.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S,gen" ud="NOUN" lex="秋" transl="Осень  осенний" gloss="осень.N-GEN" sem="t:time" transcr="aki" transcr_wf="aki-no" hiragana="あき" hiragana_wf="あき-の" ortho="kanji">秋</ana>
+				</w>
+				<w>
+					<ana gr="PART,case,gen" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="観光" transl="туризм экскурсия турпоездка" gloss="туризм.N" sem="top:recrea,t:abstr" transcr="kankou" transcr_wf="kankou" hiragana="かんこう" hiragana_wf="かんこう" ortho="kanji">観光</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="シーズン" transl="сезон" gloss="сезон.N-ACC" sem="t:time" transcr="shiizun" transcr_wf="shiizun-o" hiragana="しーずん" hiragana_wf="しーずん-を" ortho="katakana">シーズン</ana>
+				</w>
+				<w>
+					<ana gr="PART,case,acc" ud="PART" lex="を" transl="служебная частица" transcr="wo" transcr_wf="wo" hiragana="を" hiragana_wf="を" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,2,pfv,praet" ud="VERB" lex="迎える" transl="Выходить навстречу встречать выходить навстречу приветствовать принимать  у себя звать приглашать стоять перед лицомчего-л " transcr="mukaeru" transcr_wf="mukaeta" hiragana="むかえる" hiragana_wf="むかえた">迎えた</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="紅葉" transl="багряные  и жёлтые  листья осенние краски  краснеть  и желтеть о листьях " sem="pt:partt:abstr" transcr="momiji" transcr_wf="kouyou" hiragana="もみじ" hiragana_wf="こうよう" ortho="kanji">紅葉</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="名所" transl="известное достопримечательное место" sem="top:recrea,t:place:other" transcr="meisho" transcr_wf="meisho" hiragana="めいしょ" hiragana_wf="めいしょ" ortho="kanji">名所</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" transcr="ha" transcr_wf="ha" hiragana="は" hiragana_wf="は" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="雨" transl="Дождь дождь перенград ударов пуль вопросов" sem="t:abstr" transcr="ame" transcr_wf="ame" hiragana="あめ" hiragana_wf="あめ" ortho="kanji">雨</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" transcr="ni" transcr_wf="ni" hiragana="に" hiragana_wf="に" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="も" transl="служебная частица" transcr="mo" transcr_wf="mo" hiragana="も" hiragana_wf="も" ortho="hiragana">も</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,ipf" ud="VERB" lex="係わる" transl="Ответственный иметь отношение касаться задевать ставить под угрозу упорно держатьсячего-л " transcr="kakawaru" transcr_wf="kakawara" hiragana="かかわる" hiragana_wf="かかわら" ortho="hiragana">かかわら</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="ぬ" transl="перевод отсутствует" transcr="nu" transcr_wf="zu" hiragana="ぬ" hiragana_wf="ず" ortho="hiragana">ず</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="行楽" transl=" экскурсия прогулка развлечение" sem="top:recrea,t:abstr" transcr="kouraku" transcr_wf="kouraku" hiragana="こうらく" hiragana_wf="こうらく" ortho="kanji">行楽</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="客" transl="Гость гость посетитель клиент покупатель зритель пассажир" sem="top:familytop:business,t:people" transcr="kyaku" transcr_wf="kyaku" hiragana="きゃく" hiragana_wf="きゃく" ortho="kanji">客</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" transcr="de" transcr_wf="de" hiragana="で" hiragana_wf="で" ortho="hiragana">で</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="2">
+			<se lang="ru">Одним из мест паломничества стал храм Тофуку-дзи в районе Хигасияма, окрасившиеся в ярко-красный цвет листья деревьев пропитались дождем и приобрели более сочный цвет, чем и восхищаются все сбежавшиеся туристы, которые наслаждаются видами с моста напротив, сооруженного специально для любования этим пейзажем.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="見頃" transl="самое лучшее время для осмотра" sem="t:time" transcr="migoro" transcr_wf="migoro" hiragana="みごろ" hiragana_wf="みごろ" ortho="kanji">見頃</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" transcr="to" transcr_wf="to" hiragana="と" hiragana_wf="と" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,pfv,intr" ud="VERB" lex="成る" transl="Становиться становиться делаться превращаться начатьделать что-л  получаться выходить обернутьсякак-л  кончитьсячем-л  наступать о времени служитьчем-л  состоятьиз чего-л  составлять образовывать" transcr="naru" transcr_wf="natta" hiragana="なる" hiragana_wf="なった" ortho="hiragana">なった</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="東福寺" transl="перевод отсутствует" transcr="東福寺" transcr_wf="東福寺" hiragana="東福寺" hiragana_wf="東福寺" ortho="kanji">東福寺</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" transcr="de" transcr_wf="de" hiragana="で" hiragana_wf="で" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" transcr="ha" transcr_wf="ha" hiragana="は" hiragana_wf="は" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="A,ADPRAEDIC,inf,conj" ud="ADJ" lex="赤い" transl="Красныйкрасный" transcr="akai" transcr_wf="akaku" hiragana="あかい" hiragana_wf="あかく">赤く</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,pfv,intr" ud="VERB" lex="染まる" transl="Окрашивать быть окрашенным перенбыть затронутымчем-л " transcr="somaru" transcr_wf="somatta" hiragana="そまる" hiragana_wf="そまった">染まった</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="木々" transl="Деревокаждое дерево деревья" sem="t:plant" transcr="kigi" transcr_wf="kigi" hiragana="きぎ" hiragana_wf="きぎ" ortho="kanji">木々</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="葉" transl="Листвалист листья листва хвоя травинка" sem="pt:part" transcr="ha" transcr_wf="ha" hiragana="は" hiragana_wf="は" ortho="kanji">葉</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" transcr="ga" transcr_wf="ga" hiragana="が" hiragana_wf="が" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="シットリ" transl=" влажный сырой мокрый спокойно мягко  спокойный" transcr="shittori" transcr_wf="shittori" hiragana="しっとり" hiragana_wf="しっとり" ortho="hiragana">しっとり</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" transcr="to" transcr_wf="to" hiragana="と" hiragana_wf="と" ortho="hiragana">と</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="谷あい" transl="Долина" sem="t:place:nature" transcr="taniai" transcr_wf="taniai" hiragana="たにあい" hiragana_wf="たにあい">谷あい</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" transcr="wo" transcr_wf="wo" hiragana="を" hiragana_wf="を" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,g,1,inf,tran" ud="VERB" lex="跨ぐ" transl="Сидеть верхом переступать перешагивать садиться верхом" transcr="matagu" transcr_wf="matagu" hiragana="またぐ" hiragana_wf="またぐ" ortho="hiragana">またぐ</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="ようだ" transl="перевод неоднозначен酔う опьянеть напиться быть больным от качки и т п 幼 кн детство младенчество様 такой как похожий вроде    так  как подобно будто по-видимому похоже    так  чтобы   после глагола показывает что действие начало совершаться洋 океан в идиомах用 дело надобность-  пригодность польза-  расходы-  естественные надобности- 要 главное основное суть необходимость陽 Ян солнечное светлое мужское начало  положительный  явно открыто освещённая сторона южный склон горы северный берег реки и т п 姚 Яо китайская фамилия曄 Е китайское имя瑶 псевдоним甬 древняя мера ёмкости  то краткое название города Нинбо癰 мед карбункул" transcr="youda" transcr_wf="youni" hiragana="ようだ" hiragana_wf="ように" ortho="hiragana">ように</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="通天" transl="перевод отсутствует" sem="t:abstr" transcr="tsuuten" transcr_wf="tsuuten" hiragana="つうてん" hiragana_wf="つうてん" ortho="kanji">通天</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="橋" transl="Мост В сочетаниях то же" sem="top:transp,t:place:facil" transcr="hashi" transcr_wf="kyou" hiragana="はし" hiragana_wf="きょう" ortho="kanji">橋</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="から" transl="служебная частица" transcr="kara" transcr_wf="kara" hiragana="から" hiragana_wf="から" ortho="hiragana">から</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="眺め" transl="Глядетьвидна что-л " transcr="nagame" transcr_wf="nagame" hiragana="ながめ" hiragana_wf="ながめ">眺め</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" transcr="ni" transcr_wf="ni" hiragana="に" hiragana_wf="に" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="観光" transl="туризм экскурсия турпоездка" sem="top:recrea,t:abstr" transcr="kankou" transcr_wf="kankou" hiragana="かんこう" hiragana_wf="かんこう" ortho="kanji">観光</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="客" transl="Гость гость посетитель клиент покупатель зритель пассажир" sem="top:familytop:business,t:people" transcr="kyaku" transcr_wf="kyaku" hiragana="きゃく" hiragana_wf="きゃく" ortho="kanji">客</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" transcr="ga" transcr_wf="ga" hiragana="が" hiragana_wf="が" ortho="hiragana">が</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="3">
+			<se lang="ru">В садах храма Тофуку-дзи более двух тысяч кленовых деревьев. В этом году они приветствовали всех посетителей своими красными листьями, начиная с 14 ноября, что на неделю раньше обычного.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="東福寺" transl="перевод отсутствует" transcr="東福寺" transcr_wf="東福寺" hiragana="東福寺" hiragana_wf="東福寺" ortho="kanji">東福寺</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="境内" transl="огороженная  территория храма" sem="top:cult,t:place:other" transcr="keidai" transcr_wf="keidai" hiragana="けいだい" hiragana_wf="けいだい" ortho="kanji">境内</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" transcr="ni" transcr_wf="ni" hiragana="に" hiragana_wf="に" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf" ud="VERB" lex="有る" transl="Иметь быть существовать иметься найтись находиться располагатьсягде-л содержатьсяв чём-л  происходить случаться бывать заключаться состоятьв чём-л сводитьсяк чему-л  указывает на количествонасчитывать иметь размер веситьи т п исп в грамматических конструкциях      - " transcr="aru" transcr_wf="aru" hiragana="ある" hiragana_wf="ある" ortho="hiragana">ある</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="楓" transl="Клён клён пальчатолистный  фамилия либо женское имя" sem="t:plant" transcr="kaede" transcr_wf="kaede" hiragana="かえで" hiragana_wf="かえで" ortho="katakana">カエデ</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" transcr="ha" transcr_wf="ha" hiragana="は" hiragana_wf="は" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="例年" transl=" обычный среднестатистический год каждый год ежегодно" sem="t:time" transcr="reinen" transcr_wf="reinen" hiragana="れいねん" hiragana_wf="れいねん" ortho="kanji">例年</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" transcr="ni" transcr_wf="ni" hiragana="に" hiragana_wf="に" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,2,cnv,conj" ud="VERB" lex="比べる" transl="Сравниватьсравнивать" transcr="kuraberu" transcr_wf="kurabete" hiragana="くらべる" hiragana_wf="くらべて">比べて</ana>
+				</w>
+				<w>
+					<ana gr="A,ADPRAEDIC,inf" ud="ADJ" lex="早い" transl="Ранний ранний рано быстрый скорый" transcr="hayai" transcr_wf="hayai" hiragana="はやい" hiragana_wf="はやい">早い</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="から" transl="служебная частица" transcr="kara" transcr_wf="kara" hiragana="から" hiragana_wf="から" ortho="hiragana">から</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="見頃" transl="самое лучшее время для осмотра" sem="t:time" transcr="migoro" transcr_wf="migoro" hiragana="みごろ" hiragana_wf="みごろ" ortho="kanji">見頃</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" transcr="wo" transcr_wf="wo" hiragana="を" hiragana_wf="を" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,2,pfv" ud="VERB" lex="迎える" transl="Выходить навстречу встречать выходить навстречу приветствовать принимать  у себя звать приглашать стоять перед лицомчего-л " transcr="mukaeru" transcr_wf="mukaeta" hiragana="むかえる" hiragana_wf="むかえた">迎えた</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" transcr="to" transcr_wf="to" hiragana="と" hiragana_wf="と" ortho="hiragana">と</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="4">
+			<se lang="ru">Все пришедшие прогуливались под зонтиками и наслаждались красотами кленового сада.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="V,2,pfv" ud="VERB" lex="訪れる" transl="Посещатьзаходить навещать посещать" transcr="otozureru" transcr_wf="otozureta" hiragana="おとずれる" hiragana_wf="おとずれた">訪れた</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" transcr="ha" transcr_wf="ha" hiragana="は" hiragana_wf="は" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="傘" transl="Зонтикзонтик" sem="top:family,t:tool:other" transcr="kasa" transcr_wf="kasa" hiragana="かさ" hiragana_wf="かさ" ortho="kanji">傘</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" transcr="wo" transcr_wf="wo" hiragana="を" hiragana_wf="を" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,s,1,inf,conj" ud="VERB" lex="差す" transl="Разница раскрывать над собой зонтик протягивать руку предлагать рюмку и т п  наливать капать ходить в шахматах носить меч за поясом " transcr="sasu" transcr_wf="sashi" hiragana="さす" hiragana_wf="さし">差し</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="ながら" transl="служебная частица" transcr="nagara" transcr_wf="nagara" hiragana="ながら" hiragana_wf="ながら" ortho="hiragana">ながら</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="庭園" transl="сад парк" sem="t:place:facil" transcr="teien" transcr_wf="teien" hiragana="ていえん" hiragana_wf="ていえん" ortho="kanji">庭園</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" transcr="wo" transcr_wf="wo" hiragana="を" hiragana_wf="を" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="ゆったり" transl="Великодушиетихий спокойный" transcr="yuttari" transcr_wf="yuttari" hiragana="ゆったり" hiragana_wf="ゆったり" ortho="hiragana">ゆったり</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" transcr="to" transcr_wf="to" hiragana="と" hiragana_wf="と" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="散策" transl="проходить прогулка" sem="top:recrea,t:abstr" transcr="sansaku" transcr_wf="sansaku" hiragana="さんさく" hiragana_wf="さんさく" ortho="kanji">散策</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="5">
+			<se lang="ru">Один из моих друзей из Фукусимы в этом году впервые приехал на любование кленами в Киото: «Наконец-то я доехал до Киото. Здесь действительно великолепно следят за красотой города.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="PART,case" ud="PART" lex="から" transl="служебная частица" transcr="kara" transcr_wf="kara" hiragana="から" hiragana_wf="から" ortho="hiragana">から</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="友人" transl="друг приятель" sem="t:people" transcr="yuujin" transcr_wf="yuujin" hiragana="ゆうじん" hiragana_wf="ゆうじん" ortho="kanji">友人</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" transcr="to" transcr_wf="to" hiragana="と" hiragana_wf="と" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="初めて" transl="Первыйвпервые" transcr="hajimete" transcr_wf="hajimete" hiragana="はじめて" hiragana_wf="はじめて">初めて</ana>
+				</w>
+				<w>
+					<ana gr="V,2,pfv" ud="VERB" lex="訪れる" transl="Посещатьзаходить навещать посещать" transcr="otozureru" transcr_wf="otozureta" hiragana="おとずれる" hiragana_wf="おとずれた">訪れた</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="渡部" transl="фамилия" transcr="watanabe" transcr_wf="watanabe" hiragana="わたなべ" hiragana_wf="わたなべ" ortho="kanji">渡部</ana>
+				</w>
+				<w>（</w>
+				<w>65</w>
+				<w>）</w>
+				<w>「</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="手入れ" transl=" починка ремонт   чинить ремонтировать уход забота содержание  в порядке    ухаживать следитьза чем-л  постригать кусты волосы и т п  рейд налёт полиции   совершать рейд" sem="t:abstr" transcr="teire" transcr_wf="teire" hiragana="ていれ" hiragana_wf="ていれ">手入れ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" transcr="ga" transcr_wf="ga" hiragana="が" hiragana_wf="が" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="V,k,1,pfv" ud="VERB" lex="行き届く" transl="быть внимательным тщательным заботливым" transcr="ikitodoku" transcr_wf="ikitodoita" hiragana="いきとどく" hiragana_wf="いきとどいた">行き届いた</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="京都" transl="Киото" transcr="kyouto" transcr_wf="kyouto" hiragana="きょうと" hiragana_wf="きょうと" ortho="kanji">京都</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="造形" transl="формовка лепка ваяние" sem="t:abstr" transcr="zoukei" transcr_wf="zoukei" hiragana="ぞうけい" hiragana_wf="ぞうけい" ortho="kanji">造形</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="美" transl="Красивыйкрасота" sem="t:abstr" transcr="bi" transcr_wf="bi" hiragana="び" hiragana_wf="び" ortho="kanji">美</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" transcr="ha" transcr_wf="ha" hiragana="は" hiragana_wf="は" ortho="hiragana">は</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="6">
+			<se lang="ru">Фукусима еще не оправилась после катастрофы, но приезд сюда придал мне сил».</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="震災" transl="землетрясение как бедствие" sem="top:family,t:abstr" transcr="shinsai" transcr_wf="shinsai" hiragana="しんさい" hiragana_wf="しんさい" ortho="kanji">震災</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" transcr="de" transcr_wf="de" hiragana="で" hiragana_wf="で" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="福島" transl="фамилия" transcr="fukushima" transcr_wf="fukushima" hiragana="ふくしま" hiragana_wf="ふくしま" ortho="kanji">福島</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" transcr="ha" transcr_wf="ha" hiragana="は" hiragana_wf="は" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="まだ" transl="Ещё не с отриц ещё не всё ещё до сих пор ещё только всего лишь ещё кроме того" transcr="mada" transcr_wf="mada" hiragana="まだ" hiragana_wf="まだ" ortho="hiragana">まだ</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="が" transl="служебная частица" transcr="ga" transcr_wf="ga" hiragana="が" hiragana_wf="が" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1" ud="ADJ" lex="元気だ" transl="бодрость живость энергия хорошее настроение  быть в добром здравии" transcr="genkida" transcr_wf="genki" hiragana="げんきだ" hiragana_wf="げんき" ortho="kanji">元気</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" transcr="wo" transcr_wf="wo" hiragana="を" hiragana_wf="を" ortho="hiragana">を</ana>
+				</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" transcr="to" transcr_wf="to" hiragana="と" hiragana_wf="と" ortho="hiragana">と</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="7">
+			<se lang="ru">С начала ноября по утрам и вечерам стало холодать, и Киото смог порадовать всех приехавших разнообразием известных видов осенних кленов.</se>
+			<se lang="ja">
+				<w>11</w>
+				<w>
+					<ana gr="SUFFIX!" ud="SUFFIX!" lex="月" transl="Месяцлуна месяц" sem="t:time" transcr="getsu" transcr_wf="gatsu" hiragana="げつ" hiragana_wf="がつ" ortho="kanji">月</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" transcr="ni" transcr_wf="ni" hiragana="に" hiragana_wf="に" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,cnv,intr,conj" ud="VERB" lex="入る" transl="Входить входить проникать внутрь поступатькуда-л  вступать помещаться влезать входить поступать о доходах" transcr="hairu" transcr_wf="haitte" hiragana="はいる" hiragana_wf="はいって">入って</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="朝晩" transl="утро и вечер утром и вечером" sem="t:time" transcr="asaban" transcr_wf="asaban" hiragana="あさばん" hiragana_wf="あさばん" ortho="kanji">朝晩</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="冷え" transl="Холодныйхолод" transcr="hie" transcr_wf="hie" hiragana="ひえ" hiragana_wf="ひえ">冷え</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="込み" transl="Внутрь гандикап фора оптом покупать" transcr="komi" transcr_wf="komi" hiragana="こみ" hiragana_wf="こみ">込み</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" transcr="ga" transcr_wf="ga" hiragana="が" hiragana_wf="が" ortho="hiragana">が</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="紅葉" transl="багряные  и жёлтые  листья осенние краски  краснеть  и желтеть о листьях " sem="pt:partt:abstr" transcr="momiji" transcr_wf="kouyou" hiragana="もみじ" hiragana_wf="こうよう" ortho="kanji">紅葉</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="名所" transl="известное достопримечательное место" sem="top:recrea,t:place:other" transcr="meisho" transcr_wf="meisho" hiragana="めいしょ" hiragana_wf="めいしょ" ortho="kanji">名所</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" transcr="ha" transcr_wf="ha" hiragana="は" hiragana_wf="は" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="多く" transl="Много много большое количество главным образом большей частью" sem="t:abstr" transcr="ooku" transcr_wf="ooku" hiragana="おおく" hiragana_wf="おおく">多く</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" transcr="ga" transcr_wf="ga" hiragana="が" hiragana_wf="が" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="見頃" transl="самое лучшее время для осмотра" sem="t:time" transcr="migoro" transcr_wf="migoro" hiragana="みごろ" hiragana_wf="みごろ" ortho="kanji">見頃</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" transcr="wo" transcr_wf="wo" hiragana="を" hiragana_wf="を" ortho="hiragana">を</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="8">
+			<se lang="ru">Метеорологи Киото обещают нормальную осеннюю температуру - минимумом 8 градусов в эти дни.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="京都" transl="Киото" transcr="kyouto" transcr_wf="kyouto" hiragana="きょうと" hiragana_wf="きょうと" ortho="kanji">京都</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地方" transl=" местность район область округ провинция глубинка" sem="t:place:other" transcr="chihou" transcr_wf="chihou" hiragana="ちほう" hiragana_wf="ちほう" ortho="kanji">地方</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="気象" transl="атмосферные явления погодав сочетанияхметеорологический" sem="t:abstr" transcr="kishou" transcr_wf="kishou" hiragana="きしょう" hiragana_wf="きしょう" ortho="kanji">気象</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="台" transl="Подставка подставка подпорка помост вышка возвышение сцена перен  театр возвышенность плато почт  Вы уровень пределы счётный суффикс для транспортных  средств и станков " sem="t:tool:other" transcr="dai" transcr_wf="dai" hiragana="だい" hiragana_wf="だい" ortho="kanji">台</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" transcr="ni" transcr_wf="ni" hiragana="に" hiragana_wf="に" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf,tran" ud="VERB" lex="因る" transl="Причинапроистекатьиз чего-л " transcr="yoru" transcr_wf="yoru" hiragana="よる" hiragana_wf="よる" ortho="hiragana">よる</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="この" transl="этот" transcr="kono" transcr_wf="kono" hiragana="この" hiragana_wf="この" ortho="hiragana">この</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="日" transl="День солнце день" sem="t:time" transcr="nichi" transcr_wf="hi" hiragana="にち" hiragana_wf="ひ" ortho="kanji">日</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" transcr="no" transcr_wf="no" hiragana="の" hiragana_wf="の" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="Unknown" ud="X" lex="最低だ" transl="  самый низкий минимальный  как минимум самое меньшее разг подлый низкий отвратительный" transcr="saiteida" transcr_wf="saitei" hiragana="さいていだ" hiragana_wf="さいてい" ortho="kanji">最低</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="気温" transl="температура  воздуха" sem="t:quant" transcr="kion" transcr_wf="kion" hiragana="きおん" hiragana_wf="きおん" ortho="kanji">気温</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" transcr="ha" transcr_wf="ha" hiragana="は" hiragana_wf="は" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" transcr="to" transcr_wf="to" hiragana="と" hiragana_wf="と" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="平年" transl=" обычный невисокосный год обычный средний год по показателям" sem="t:time" transcr="heinen" transcr_wf="heinen" hiragana="へいねん" hiragana_wf="へいねん" ortho="kanji">平年</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="並み" transl="Выстраиватьсредний уровень стандарт нормасредний рядовой заурядный необычный из ряда вон" sem="t:abstr" transcr="nami" transcr_wf="nami" hiragana="なみ" hiragana_wf="なみ">並み</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+	</body>
+</html>
